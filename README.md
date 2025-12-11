@@ -7,40 +7,40 @@ The goal of this project is to analyze sales performance across categories, regi
 
 Dataset Overview:
 
-Time-series retail dataset from Kaggle, refined to 76,000 rows for accuracy
+1. Time-series retail dataset from Kaggle, refined to 76,000 rows for accuracy
 
-Enriched with an ‘Epidemic’ feature to reflect real-world conditions (e.g., COVID-19)
+2. Enriched with an ‘Epidemic’ feature to reflect real-world conditions (e.g., COVID-19)
 
-Enables more reliable forecasting considering external factors such as seasonality, weather, and promotions
+3. Enables more reliable forecasting considering external factors such as seasonality, weather, and promotions
 
 
 
 Tools Used:
 
-Python – for data preprocessing and modeling
+1. Python – for data preprocessing and modeling
 
-Power BI – for interactive dashboard visualization
+2. Power BI – for interactive dashboard visualization
 
-Microsoft Excel – for initial data exploration and cleaning
+3. Microsoft Excel – for initial data exploration and cleaning
 
-Microsoft PowerPoint – for presentation and insights reporting
+4. Microsoft PowerPoint – for presentation and insights reporting
 
 
 Conclusion:
 
-Analysis highlights gaps between demand and supply, emphasizing the need for improved inventory management, especially in low-turnover stores.
+1. Analysis highlights gaps between demand and supply, emphasizing the need for improved inventory management, especially in low-turnover stores.
 
-External factors like epidemics significantly affect operations and must be considered in planning.
+2. External factors like epidemics significantly affect operations and must be considered in planning.
 
 
 Recommendations:
 
-Inventory Optimization: Use ABC analysis to classify stock based on impact and sales velocity metrics to assess productivity.
+1. Inventory Optimization: Use ABC analysis to classify stock based on impact and sales velocity metrics to assess productivity.
 
-Forecasting Improvements: Utilize machine learning models to predict sales and guide ordering trends.
+2. Forecasting Improvements: Utilize machine learning models to predict sales and guide ordering trends.
 
-Product Strategy: For declining products, consider introducing new, more profitable items.
+3. Product Strategy: For declining products, consider introducing new, more profitable items.
 
-Seasonal Planning: Prepare inventory for high-demand periods (summer/fall) and use discounts or bundles to manage spring inventory.
+4. Seasonal Planning: Prepare inventory for high-demand periods (summer/fall) and use discounts or bundles to manage spring inventory.
 
-Marketing Strategies: Apply effective strategies from previous years (e.g., extended warranties, holiday packages) to improve ad campaigns and sales in future seasons.
+5. Marketing Strategies: Apply effective strategies from previous years (e.g., extended warranties, holiday packages) to improve ad campaigns and sales in future seasons.
