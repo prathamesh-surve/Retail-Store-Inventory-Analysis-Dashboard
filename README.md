@@ -5,6 +5,7 @@ Project Objective:
 The goal of this project is to analyze sales performance across categories, regions, and time periods, and evaluate how factors such as seasonality, weather, promotions, and epidemics impact revenue, demand, and inventory. The insights derived can help optimize pricing, improve inventory planning, and enhance demand forecasting.
 
 
+
 Dataset Overview:
 
 1. Time-series retail dataset from Kaggle, refined to 76,000 rows for accuracy
@@ -12,6 +13,7 @@ Dataset Overview:
 2. Enriched with an ‘Epidemic’ feature to reflect real-world conditions (e.g., COVID-19)
 
 3. Enables more reliable forecasting considering external factors such as seasonality, weather, and promotions
+
 
 
 
@@ -26,11 +28,13 @@ Tools Used:
 4. Microsoft PowerPoint – for presentation and insights reporting
 
 
+
 Conclusion:
 
 1. Analysis highlights gaps between demand and supply, emphasizing the need for improved inventory management, especially in low-turnover stores.
 
 2. External factors like epidemics significantly affect operations and must be considered in planning.
+
 
 
 Recommendations:
